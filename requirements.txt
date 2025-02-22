@@ -2,3 +2,4 @@ Stable-Baselines3
 numpy
 pandas
 matplotlib
+Gymnasium 
